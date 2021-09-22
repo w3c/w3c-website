@@ -2,7 +2,7 @@
 name: Design System
 about: Submit an issue about the W3C Design System
 title: ''
-labels: design-system
+labels: 'design system'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: CMS
 about: Submit an issue about the W3C Craft CMS
 title: ''
-labels: craft-cms
+labels: cms
 assignees: ''
 
 ---
