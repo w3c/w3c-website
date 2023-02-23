@@ -28,7 +28,7 @@ GitHub repo: https://github.com/w3c/w3c-website-templates-bundle/
 
 ## Craft CMS
 
-We use CraftCMS to manage content for the main W3C website.
+We use [Craft CMS](https://craftcms.com/) to manage content for the main W3C website.
 
 * [Submit an issue about the CMS](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=cms&template=cms.md&title=)
 
