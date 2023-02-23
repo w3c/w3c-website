@@ -24,7 +24,7 @@ The [design system](https://design-system.w3.org/) contains accessible HTML/CSS 
 
 * [Submit an issue about the Design System](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=design+system&template=design_system.md&title=)
 
-GitHub repo: https://github.com/w3c/w3c-website-templates-bundle/
+GitHub repo: [w3c/w3c-website-templates-bundle](https://github.com/w3c/w3c-website-templates-bundle/)
 
 ## Craft CMS
 
@@ -32,4 +32,4 @@ We use [Craft CMS](https://craftcms.com/) to manage content for the main W3C web
 
 * [Submit an issue about the CMS](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=cms&template=cms.md&title=)
 
-GitHub repo: https://github.com/w3c/w3c-website-craft (this repo is currently private)
+GitHub repo: [w3c/w3c-website-craft](https://github.com/w3c/w3c-website-craft/) (this repo is currently private)
