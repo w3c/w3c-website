@@ -3,7 +3,7 @@
 This GitHub repo is used to manage [feedback and bug reports](https://github.com/w3c/w3c-website/issues) for the W3C
 website redesign project.
 
-We welcome feedback from the community. If you don't already have one, please [sign up to GitHub](https://github.com/signup) before submitting an issue.
+We welcome feedback from the community. If you don't already have an account, please [sign up to GitHub](https://github.com/signup) before submitting an issue.
 
 Submitted issues are triaged by W3C and then actioned by the team.
 
