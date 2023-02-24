@@ -7,7 +7,7 @@ We welcome feedback from the community. If you don't already have an account, pl
 
 Submitted issues are triaged and then actioned by the W3C team.
 
-If you may not sign up to GitHub, please write to public-website-redesign@w3.org ([publicly archived](https://lists.w3.org/Archives/Public/public-website-redesign/) mailing list).
+If you are not able to sign up to GitHub, please write to public-website-redesign@w3.org ([publicly archived](https://lists.w3.org/Archives/Public/public-website-redesign/) mailing list).
 
 ## W3C website
 
