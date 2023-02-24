@@ -1,13 +1,13 @@
 # W3C website feedback and bug reports
 
 This GitHub repo is used to manage [feedback and bug reports](https://github.com/w3c/w3c-website/issues) for the W3C
-website redesign project.
+website redesign project. You can learn more about the [W3C website redesign project](https://w3c.studio24.net/).
 
 We welcome feedback from the community. If you don't already have an account, please [sign up to GitHub](https://github.com/signup) before submitting an issue.
 
-Submitted issues are triaged by W3C and then actioned by the team.
+Submitted issues are triaged and then actioned by the W3C team.
 
-You can also learn more about the [W3C website redesign project](https://w3c.studio24.net/).
+If you may not sign up to GitHub, please write to public-website-redesign@w3.org ([publicly archived](https://lists.w3.org/Archives/Public/public-website-redesign/) mailing list).
 
 ## W3C website
 
