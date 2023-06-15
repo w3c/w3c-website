@@ -11,7 +11,7 @@ If you are not able to sign up to GitHub, please write to public-website-redesig
 
 ## W3C website
 
-The new W3C website is currently being tested on the [Beta website](https://beta.w3.org/).
+The new W3C website has been deployed to [www.w3.org](https://www.w3.org/).
 
 * [Submit an issue about content on the website](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=content&template=content.md&title=)
 * [Submit an issue about the website](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=website&template=website.md&title=)
