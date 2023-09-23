@@ -1,8 +1,8 @@
 # W3C website feedback and bug reports
 
-This GitHub repo is used to manage feedback and bug reports for the W3C website redesign project. 
+This GitHub repo is used to manage feedback and bug reports for the W3C website.
 
-We welcome feedback from the community. You can submit feedback or issues via GitHub or  email.
+We welcome feedback from the community. You can submit feedback or issues via GitHub or email.
 
 Submitted issues are triaged and then actioned by the W3C team.
 
@@ -29,7 +29,7 @@ GitHub repo: https://github.com/w3c/w3c-website-frontend
 
 ### Feedback about the Design System
 
-The [design system](https://design-system.w3.org/) contains accessible HTML/CSS templates and components for use when creating W3C websites. 
+The [design system](https://design-system.w3.org/) contains accessible HTML/CSS templates and components for use when creating W3C websites.
 
 * [Submit an issue about the Design System](https://github.com/w3c/w3c-website/issues/new?assignees=&labels=design+system&template=design_system.md&title=)
 
