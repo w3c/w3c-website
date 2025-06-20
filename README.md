@@ -1,6 +1,6 @@
 # W3C website feedback and bug reports
 
-This GitHub repo is used to manage feedback and bug reports for the W3C website.
+This GitHub repo is used to manage feedback and bug reports on the W3C website.
 
 We welcome feedback from the community. You can submit feedback or issues via GitHub or email.
 
@@ -12,7 +12,7 @@ You can also:
 
 ## Sending feedback via email
 
-Sending feedback via GitHub is preferred, but if you cannot use GitHub please send us an email at [public-website-redesign@w3.org](mailto:public-website-redesign@w3.org). All emails are [publicly archived](https://lists.w3.org/Archives/Public/public-website-redesign/).
+Sending feedback via GitHub is preferred, but if you cannot use GitHub please send us an email at [site-comments@w3.org](mailto:site-comments@w3.org). All emails are [publicly archived](https://lists.w3.org/Archives/Public/site-comments/).
 
 ## Sending feedback via GitHub
 
