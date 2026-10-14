@@ -2,7 +2,7 @@
 name: Mailing List Archives
 about: Submit an issue about the W3C mailing list archives
 title: ''
-labels: content
+labels: 'mailing list archives'
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ A clear and concise description of what the problem is.
 The URL where this problem occurs on the `https://lists.w3.org/` site.
 
 **Recommended solution**
-A clear description of how you think the content should be updated.
+A clear description of how you think the site should be updated.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
